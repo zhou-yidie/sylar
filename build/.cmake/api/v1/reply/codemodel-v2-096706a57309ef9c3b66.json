@@ -1,0 +1,213 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sylar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bin_sylar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bin_sylar-Debug-90780f430c2701fcbfa6.json",
+					"name" : "bin_sylar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "orm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-orm-Debug-a5fb3d97035d3a7fdffd.json",
+					"name" : "orm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sylar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sylar-Debug-3d7a0a472955601c4a88.json",
+					"name" : "sylar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_array-Debug-4c9ce47bf04ec6bfafd6.json",
+					"name" : "test_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_bitmap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_bitmap-Debug-787d830a2669a90129c9.json",
+					"name" : "test_bitmap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_crypto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_crypto-Debug-e4f99fa4f42bc1599f76.json",
+					"name" : "test_crypto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_dict::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_dict-Debug-0cf807a6a655c7f44678.json",
+					"name" : "test_dict",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_email::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_email-Debug-92083d80e291611d63c6.json",
+					"name" : "test_email",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_hashmap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_hashmap-Debug-36ec547614bb3a597da2.json",
+					"name" : "test_hashmap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_hashmultimap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_hashmultimap-Debug-cc3fcada384e3480d844.json",
+					"name" : "test_hashmultimap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_module-Debug-f5bf7d3da6a9c1fa59d0.json",
+					"name" : "test_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_mysql::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_mysql-Debug-5db42b08f95a52ef0ad2.json",
+					"name" : "test_mysql",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_nameserver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_nameserver-Debug-b0036b1dcf6fa628286b.json",
+					"name" : "test_nameserver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_rock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_rock-Debug-d3e57c4215267a74f4a6.json",
+					"name" : "test_rock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_service_discovery::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_service_discovery-Debug-e12e42f55ba34a82baeb.json",
+					"name" : "test_service_discovery",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_sqlite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_sqlite3-Debug-c04e516c0d9ef3202f3e.json",
+					"name" : "test_sqlite3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_util::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_util-Debug-3fe00ab682f0a40643cb.json",
+					"name" : "test_util",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_zkclient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_zkclient-Debug-600f2f085b9aff90734b.json",
+					"name" : "test_zkclient",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zhouyidie/Codes/sylar/build",
+		"source" : "/home/zhouyidie/Codes/sylar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

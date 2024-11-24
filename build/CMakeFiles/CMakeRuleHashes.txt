@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+abc3d693fd0bd4699e972559efed2216 /home/zhouyidie/Codes/sylar/sylar/http/http11_parser.rl.cc
+cfa460cbb222633f6351d6e364522fe7 /home/zhouyidie/Codes/sylar/sylar/http/httpclient_parser.rl.cc
+582c0357068ad20b3a25d834b7085778 /home/zhouyidie/Codes/sylar/sylar/ns/ns_protobuf.pb.cc
+71a37867db87dc1e92a23fda13f8726f /home/zhouyidie/Codes/sylar/sylar/uri.rl.cc
